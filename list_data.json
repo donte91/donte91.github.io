@@ -3,17 +3,17 @@
 		{
 			"Restaurant": "In-N-Out",
 			"Type": "Burger",
-			"Location": "West Coast",
+			"Location": "West Coast"
 		},
 		{
 			"Restaurant": "Tacos El Gordo",
 			"Type": "Authentic Mexican",
-			"Location": "California, Nevada",
+			"Location": "California, Nevada"
 		},
 		{
 			"Restaurant": "Jollibee",
 			"Type": "Filipino",
-			"Location": "Various Locations",
+			"Location": "Various Locations"
 		}
 	]
 }
