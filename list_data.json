@@ -1,22 +1,19 @@
 {
-	"movies": [
+	"Fast Food Restaurants": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Restaurant": "In-N-Out",
+			"Type": "Burger",
+			"Location": "West Coast",
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Restaurant": "Tacos El Gordo",
+			"Type": "Authentic Mexican",
+			"Location": "California, Nevada",
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Restaurant": "Jollibee",
+			"Type": "Filipino",
+			"Location": "Various Locations",
 		}
 	]
 }
