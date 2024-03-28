@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/static/js/main.45e3d157.js",
+    "static/media/bg-home2.jpeg": "/static/media/bg-home2.0360e5ec10e0dc5fc469.jpeg",
+    "static/media/bg-sign-in-basic.jpeg": "/static/media/bg-sign-in-basic.f327db1d0e4b00ba3c81.jpeg",
+    "static/media/city-profile.jpg": "/static/media/city-profile.4d64bba97c3d1757379e.jpg",
+    "static/media/blank-team.jpeg": "/static/media/blank-team.a761f6c283447d69d856.jpeg",
+    "static/media/illustration-reset.jpg": "/static/media/illustration-reset.c5f36c0c2262b9ad6165.jpg",
+    "static/media/bg-about-us.jpg": "/static/media/bg-about-us.cf9a123e2a3d371d53da.jpg",
+    "index.html": "/index.html",
+    "main.45e3d157.js.map": "/static/js/main.45e3d157.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.45e3d157.js"
+  ]
+}
