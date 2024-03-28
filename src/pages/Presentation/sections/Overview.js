@@ -86,28 +86,6 @@ function Overview() {
               />
             </RotatingCard>
           </Grid>
-          <Grid item xs={4} lg={4} sx={{ mx: "auto" }}>
-            <RotatingCard>
-              <RotatingCardFront
-                image={bgFront}
-                icon="touch_app"
-                title={<>MIMS &apos;24 Capstone Project</>}
-                description="Exploring information systems as a bridge between political information and civic engagement."
-              />
-              <RotatingCardBack
-                image={bgBack}
-                title="Overview"
-                description="Within this project, we will conduct user research to interrogate two questions with the goal of identifying current attitudes, perceptions, sensemaking, and participation in local community politics within Berkeley:
-                What is the relationship between political engagement and community among Berkeley residents ages 18-34?
-                How do residents and students currently make sense of local political information (e.g. local representatives and events)?"
-                action={{
-                  type: "internal",
-                  route: "/sections/landing-pages/about-us",
-                  label: "Read More",
-                }}
-              />
-            </RotatingCard>
-          </Grid>
         </Grid>
       </Container>
     </MKBox>
