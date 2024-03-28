@@ -74,7 +74,7 @@ function Overview() {
               />
               <RotatingCardBack
                 image={bgBack}
-                title="Overview"
+                title="Overview2"
                 description="Within this project, we will conduct user research to interrogate two questions with the goal of identifying current attitudes, perceptions, sensemaking, and participation in local community politics within Berkeley:
                 What is the relationship between political engagement and community among Berkeley residents ages 18-34?
                 How do residents and students currently make sense of local political information (e.g. local representatives and events)?"
