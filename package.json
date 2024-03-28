@@ -1,7 +1,6 @@
 {
   "name": "capstone-website",
-  "homepage": "https://donte91.github.io"
-  },
+  "homepage": "https://donte91.github.io",
   "dependencies": {
     "@emotion/cache": "11.10.7",
     "@emotion/react": "^11.10.6",
