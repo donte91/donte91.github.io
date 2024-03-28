@@ -39,9 +39,9 @@ function AboutUs() {
         routes={routes}
         action={{
           type: "external",
-          route: "https://www.creative-tim.com/product/material-kit-react",
-          label: "free download",
-          color: "default",
+          route: "https://sooryansatheesh.github.io/projects/capstone/index.html",
+          label: "Take Persona Survey",
+          color: "warning",
         }}
         transparent
         light
